@@ -41,7 +41,7 @@ android.permissions = android.permission.INTERNET, android.permission.ACCESS_NET
 # (int) Versiones de Android API (Configuración estable)
 android.api = 30
 android.minapi = 21
-android.ndk = 26.3.11579264
+android.ndk = 25c
 
 # (bool) Aceptar automáticamente la licencia de Android SDK
 android.accept_sdk_license = True
