@@ -23,7 +23,7 @@ source.include_exts = py,png,jpg,kv,atlas,txt
 version = 1.0
 
 # (list) REQUISITOS Y LIBRERÍAS (La receta de DeepSeek)
-requirements = python3,kivy==2.3.1,kivymd==1.2.0,pyrebase4,sqlite3,datetime,os
+requirements = python3,kivy==2.3.1,kivymd==1.2.0,requests,gcloud,sseclient,pyjwt,requests-toolbelt
 
 # (list) Orientación de la pantalla
 orientation = portrait
